@@ -17,21 +17,26 @@ every exercise is something you actually run here, commit, and push.
 | [`docs/github.md`](docs/github.md) | PRs, reviews, Issues, Actions, the collaboration layer |
 | [`docs/resources.md`](docs/resources.md) | Vetted books, tutorials, games, references |
 | [`exercises/`](exercises/) | One drill per week, with a checklist |
+| [`makeitstick/`](makeitstick/) | How to study this so it actually sticks |
 | [`PROGRESS.md`](PROGRESS.md) | Tick things off as you go |
 
 ## Start here
 
-1. Read [`docs/mental-model.md`](docs/mental-model.md) (~15 min). Do not skip it.
+1. Read [`makeitstick/study-protocol.md`](makeitstick/study-protocol.md) (~10 min).
+   It tells you *how* to run the rest so it survives past next month.
+2. Read [`docs/mental-model.md`](docs/mental-model.md) (~15 min). Do not skip it.
    Most git confusion is a broken mental model, not a forgotten command.
-2. Open [`docs/plan.md`](docs/plan.md) and begin Week 1.
-3. Do the matching drill in [`exercises/`](exercises/).
-4. Update [`PROGRESS.md`](PROGRESS.md) and commit it. That commit *is* practice.
+3. Open [`docs/plan.md`](docs/plan.md) and begin Week 1.
+4. Do the matching drill in [`exercises/`](exercises/).
+5. Update [`PROGRESS.md`](PROGRESS.md) and commit it. That commit *is* practice.
 
 ## Time commitment
 
-About **4–6 hours per week for 6 weeks**. It works at half speed over 12 weeks
-too — the sequence matters more than the pace. The only hard rule: do not read
-ahead without doing the drills. Git is muscle memory.
+About **4–6 hours per week for 6 weeks**, split into four short sessions rather
+than one long one — spacing is doing real work here, not just scheduling. It
+works at half speed over 12 weeks too; the sequence matters more than the pace.
+The only hard rule: do not read ahead without doing the drills. Git is muscle
+memory.
 
 ## One-time setup
 

@@ -6,7 +6,10 @@ Tick a box, commit the change, push it. That loop is itself the practice.
 git add PROGRESS.md && git commit -m "Complete week 1 drill" && git push
 ```
 
+Tick a box for having **produced** something unaided — not for having read it.
+
 ## Setup
+- [ ] Read `makeitstick/study-protocol.md`
 - [ ] `user.name` / `user.email` configured
 - [ ] `git lg` alias added
 - [ ] SSH key added to GitHub, `ssh -T git@github.com` succeeds
@@ -47,3 +50,4 @@ git add PROGRESS.md && git commit -m "Complete week 1 drill" && git push
 
 ## After
 - [ ] Using git daily on something real
+- [ ] One-month booster session done (`makeitstick/study-protocol.md`)
