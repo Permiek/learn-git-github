@@ -4,6 +4,11 @@ Each week: **concepts** (what to understand), **commands** (what to be able to
 type from memory), **drill** (the exercise file), and **done when** (an honest
 self-test). Don't advance until you can pass the self-test without notes.
 
+Before starting, read [`../makeitstick/study-protocol.md`](../makeitstick/study-protocol.md).
+It splits each week below into four spaced sessions and tells you to attempt the
+checkpoint questions *before* reading the material. That ordering is deliberate
+and it is the difference between this sticking and not.
+
 ---
 
 ## Week 1 — Local git: the loop you'll run 50 times a day
